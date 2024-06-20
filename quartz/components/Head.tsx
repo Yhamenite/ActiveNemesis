@@ -35,7 +35,7 @@ export default (() => {
         {cfg.baseUrl && <meta property="og:image" content={ogImagePath} />}
         <meta property="og:width" content="1200" />
         <meta property="og:height" content="675" />
-        <link rel="icon" href={iconPath} />
+        <link rel="icon" href="/Attachments/Skull.ico" />
         <meta name="description" content={description} />
         <meta name="generator" content="Quartz" />
         {css.map((href) => (
