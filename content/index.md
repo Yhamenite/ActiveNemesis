@@ -2,7 +2,7 @@
 title: Welcome to ActiveNemesis
 ---
 ## What is ActiveNemesis ?
-ActiveNemesis is a personal notes repository taken by [HexY43](https://github.com/HexY43) for the [Practical Ethical Hacking (PEH)](https://academy.tcm-sec.com/p/practical-ethical-hacking-the-complete-course) Active Directory portion of the course.
+ActiveNemesis is a personal notes repository taken by [Yhamenite](https://github.com/Yhamenite) for the [Practical Ethical Hacking (PEH)](https://academy.tcm-sec.com/p/practical-ethical-hacking-the-complete-course) Active Directory portion of the course.
 
 ## Navigation
 Please make sure to start first with [[Methodology and SUPER IMPORTANT CONSIDERATIONS|Methodology and SUPER IMPORTANT CONSIDERATIONS]] file first! After understanding the methodology of attacking very will, you may start:
@@ -33,4 +33,4 @@ Please make sure to start first with [[Methodology and SUPER IMPORTANT CONSIDERA
     - [[Golden Ticket and Pass the Ticket Attacks]]
 
 ## Contact
-Please feel free to [contact me](https://Linktr.ee/HexY43) for what ever reason! whether you have question, edit request, or any general feedback.
+Please feel free to [contact me](https://Linktr.ee/Yhamenite) for what ever reason! whether you have question, edit request, or any general feedback.
